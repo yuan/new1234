@@ -118,3 +118,9 @@ DWORD GetDllVersion(LPCTSTR lpszDllName);
 #define DPI_SCALE(x) MulDiv(x, o.dpi_scale, 100)
 
 #endif
+
+
+
+
+
+
